@@ -5,6 +5,7 @@ The analysis covers 2026 banking operations across four branches located in:
 - Ibadan
 - Kano
 - Lagos
+- 
 🎯 Business Objectives
 The dashboard helps answer key business questions such as:
 - Which branch processes the highest number of transactions?
@@ -15,6 +16,7 @@ The dashboard helps answer key business questions such as:
 - Who are the top customers by account balance?
 - Which age group holds the highest account balances?
 - What is the distribution of deposits, transfers, and withdrawals across branches?
+  
 🛠 Tools Used
 - Microsoft Excel
 - Pivot Tables
@@ -24,12 +26,14 @@ The dashboard helps answer key business questions such as:
 - Dashboard Design
 - Data Cleaning
 - Data Validation
+  
 📊 Dashboard Features
 KPI Cards
 - Total Customers
 - Total Transactions
 - Total Customer Balance
 - Most Active Branch
+  
 Interactive Filters
 - Gender
 - State
@@ -43,6 +47,7 @@ Visualizations
 - Customer Balance by Age Group
 - Top 5 Customers by Account Balance
 - Deposit, Transfer & Withdrawal Comparison by Branch
+  
 📈 Key Insights
 - Ibadan recorded the highest transaction volume and emerged as the most active branch.
 - Customer transactions peaked in March, indicating increased banking activity during that period.
