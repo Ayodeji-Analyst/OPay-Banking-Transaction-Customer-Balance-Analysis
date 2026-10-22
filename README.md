@@ -64,3 +64,17 @@ Visualizations
 - Introduce loyalty and premium banking programs for high-value customers.
 - Launch personalized financial products for age groups with strong account balances.
 - Monitor branch transaction patterns regularly to improve operational efficiency.
+
+- 📷 Dashboard Preview
+ ![OPay Dashboard](images/opay_dashboard.png)
+
+🚀 Skills Demonstrated
+- Data Cleaning
+- Data Analysis
+- Dashboard Design
+- Business Intelligence
+- Data Visualization
+- KPI Development
+- Banking Analytics
+- Excel Reporting
+- Interactive Reporting
