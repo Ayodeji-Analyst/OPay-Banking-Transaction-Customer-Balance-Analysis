@@ -67,7 +67,7 @@ Visualizations
 
 - 📷 Dashboard Preview
 
-![OPay Banking Dashboard](images/opay_dashboard.png)
+![Dashboard](images/Screenshot%20(131).png)
 
 🚀 Skills Demonstrated
 - Data Cleaning
