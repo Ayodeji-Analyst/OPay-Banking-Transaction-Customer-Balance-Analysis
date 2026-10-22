@@ -65,10 +65,6 @@ Visualizations
 - Launch personalized financial products for age groups with strong account balances.
 - Monitor branch transaction patterns regularly to improve operational efficiency.
 
-- 📷 Dashboard Preview
-
-![Dashboard](images/Screenshot%20(131).png)
-
 🚀 Skills Demonstrated
 - Data Cleaning
 - Data Analysis
