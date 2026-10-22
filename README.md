@@ -56,6 +56,7 @@ Visualizations
 - Customers within the 51-year age group maintained the highest combined account balances.
 - A small group of customers accounted for a significant portion of total balances, highlighting opportunities for premium banking services.
 - Deposit activities were generally higher than transfers and withdrawals across branches.
+  
 💡 Business Recommendations
 - Increase staffing and customer service resources at the Ibadan branch to manage higher transaction volumes.
 - Investigate the factors behind March's transaction spike and replicate successful campaigns.
