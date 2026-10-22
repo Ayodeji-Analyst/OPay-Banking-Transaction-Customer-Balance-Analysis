@@ -66,7 +66,8 @@ Visualizations
 - Monitor branch transaction patterns regularly to improve operational efficiency.
 
 - 📷 Dashboard Preview
- ![OPay Dashboard](images/opay_dashboard.png)
+
+![OPay Banking Dashboard](images/opay_dashboard.png)
 
 🚀 Skills Demonstrated
 - Data Cleaning
